@@ -27,7 +27,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\Production\Production.csproj" />
+      <ProjectReference Include="..\..\src\Tennis\Tennis.csproj" />
     </ItemGroup>
 
 

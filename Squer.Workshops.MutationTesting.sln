@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src\Production", "src\Production\Production.csproj", "{F98FE718-87FD-48E6-AC52-C3BC24F5864D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis", "src\Tennis\Tennis.csproj", "{F98FE718-87FD-48E6-AC52-C3BC24F5864D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3E258BD5-7625-4832-9AA8-6F1859BECE62}"
 EndProject
